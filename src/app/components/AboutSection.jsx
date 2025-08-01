@@ -25,7 +25,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-4 space-y-2">
-        <li>B.Tech in Computer Science and Engineering — Baba Farid College of Engineering & Technology</li>
+        <li>B.Tech in Computer Science and Engineering —<span className="font-semibold"> Baba Farid College of Engineering & Technology</span></li>
       </ul>
     ),
   },
